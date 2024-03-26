@@ -1,0 +1,30 @@
+{
+  "root": {
+    "key": 14,
+    "updateAuthority": "QkkyQroaafcBx88VLXfwpDFw2kEgZQhFzQgeGoG8T59",
+    "mint": "HW4B5BbZCCGr5UYGN3AHVWsy48WfbhFXmd7JbUH1SoeK",
+    "data": {
+      "name": "Nice Token",
+      "symbol": "Nice",
+      "uri": "https://bafkreibaernfpot72viwwjem4kfsfri5b44likujupjioxeurcdomkbuty.ipfs.nftstorage.link",
+      "sellerFeeBasisPoints": 0
+    },
+    "primarySaleHappened": 0,
+    "isMutable": 1,
+    "editionNonce": 254,
+    "tokenStandard": 2,
+    "name": "solapand",
+    "symbol": "PAND",
+    "description": "Meet Solapand $PAND - the visionary panda poised to redefine the crypto sphere! 🐼 With its forward-thinking strategies and irresistible appeal, Solapand is not just another token; it's a symbol of innovation and inclusivity. Telegram: https://t.me/solapandcoin Website : https://www.solapand.com ",
+    "extensions": {
+      "website": "https://solapand.com",
+      "twitter": "https://x.com/solapandcoin",
+      "telegram": "https://t.me/solapandcoin"
+    },
+    "creator": {
+      "name": "Smithii Tools",
+      "site": "https://tools.smithii.io/token-creator/solana"
+    },
+    "image": "https://bafkreicyf5iw64mmrj2clsppcyg2k3fsfowj34aian5nqkgcwyj7vcpltu.ipfs.nftstorage.link"
+  }
+}
