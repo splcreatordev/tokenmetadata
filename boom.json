@@ -6,7 +6,7 @@
     "data": {
       "name": "BOOM on Solana",
       "symbol": "BOOM",
-      "uri": "https://github.com/splcreatordev/tokenmetadata/blob/main/boom.json",
+      "uri": "https://raw.githubusercontent.com/splcreatordev/tokenmetadata/main/boom.json",
       "sellerFeeBasisPoints": 0
     },
     "primarySaleHappened": 0,
