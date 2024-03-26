@@ -2,7 +2,7 @@
   "root": {
     "key": 14,
     "updateAuthority": "QkkyQroaafcBx88VLXfwpDFw2kEgZQhFzQgeGoG8T59",
-    "mint": "HW4B5BbZCCGr5UYGN3AHVWsy48WfbhFXmd7JbUH1SoeK",
+    "mint": "BhuSkGFTwmw7XrtmLW24syTJLKrmHnWqoZFYStaCu96v",
     "data": {
       "name": "BOOM on Solana",
       "symbol": "BOOM",
@@ -15,7 +15,7 @@
     "tokenStandard": 2,
     "name": "BOOM on Solana",
     "symbol": "BOOM",
-    "description": "Meet Solapand $PAND - the visionary panda poised to redefine the crypto sphere! 🐼 With its forward-thinking strategies and irresistible appeal, Solapand is not just another token; it's a symbol of innovation and inclusivity. Telegram: https://t.me/solapandcoin Website : https://www.solapand.com ",
+    "description": "BOOM on Solana",
     "extensions": {
       "website": "https://solapand.com",
       "twitter": "https://x.com/solapandcoin",
@@ -23,7 +23,7 @@
     },
     "creator": {
       "name": "Hyper"
-      "site": ""
+      "site": "Hyper"
     },
     "image": "https://bafkreicyf5iw64mmrj2clsppcyg2k3fsfowj34aian5nqkgcwyj7vcpltu.ipfs.nftstorage.link"
   }
